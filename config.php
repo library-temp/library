@@ -3,6 +3,6 @@
 return array(
     'hostname' => 'localhost',
     'username' => 'root',
-    'password' => '',
+    'password' => 'root',
     'database' => 'library',
 );
